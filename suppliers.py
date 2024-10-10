@@ -7,10 +7,10 @@ import random
 import string
 
 # Fatoorah test configuration
-loginUrl = "https://new-new.fatoorah.sa/login"
-targetUrl = "https://new-new.fatoorah.sa/add-supplier"
-fatoorahPhone = "0555008564"
-fatoorahPassword = "321998"
+login_url = "login URL"
+taget_url = "Taregt URL"
+fatoorah_phone = "********"
+fatoorah_password = "********"
 
 # List of the suppliers names
 suppliers = [

@@ -6,10 +6,10 @@ import time
 
 
 # fatoorah test configration
-login_url = "https://new-new.fatoorah.sa/login"
-taget_url = "https://new-new.fatoorah.sa/add-product-category"
-fatoorah_phone = "0555008564"
-fatoorah_password = "321998"
+login_url = "login URL"
+taget_url = "Taregt URL"
+fatoorah_phone = "********"
+fatoorah_password = "********"
 
 user_types = [
     "اجهزه كهربائيه",

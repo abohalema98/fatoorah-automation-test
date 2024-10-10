@@ -8,10 +8,10 @@ import time
 
 
 # fatoorah configration
-login_url = "https://new-new.fatoorah.sa/login"
-taget_url = "https://new-new.fatoorah.sa/add-customer"
-fatoorah_phone = "0555008564"
-fatoorah_password = "321998"
+login_url = "login URL"
+taget_url = "Taregt URL"
+fatoorah_phone = "********"
+fatoorah_password = "********"
 
 # inotialize the driver
 driver = webdriver.Chrome()

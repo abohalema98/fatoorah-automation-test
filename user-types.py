@@ -4,10 +4,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # Fatoorah test configuration
-loginUrl = "https://new-new.fatoorah.sa/taxes"
-targetUrl = "https://new-new.fatoorah.sa/add-user-type"
-fatoorahPhone = "0555008564"
-fatoorahPassword = "321998"
+login_url = "login URL"
+taget_url = "Taregt URL"
+fatoorah_phone = "********"
+fatoorah_password = "********"
 
 userTypes = ["جمله", "قطاعي", "موزع", "مستورد", "مصنع"]
 

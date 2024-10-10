@@ -5,10 +5,10 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 # Fatoorah test configuration
-loginUrl = "https://new-new.fatoorah.sa/login"
-targetUrl = "https://new-new.fatoorah.sa/add-user-roles"
-fatoorahPhone = "0555008564"
-fatoorahPassword = "321998"
+login_url = "login URL"
+taget_url = "Taregt URL"
+fatoorah_phone = "********"
+fatoorah_password = "********"
 
 # Roles list
 roleName = ["Kashier", "sales invoice", "purchase invoice", "store keeper", "admin"]
